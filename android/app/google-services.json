@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "816189604190",
+    "project_id": "eshtary-store-7e271",
+    "storage_bucket": "eshtary-store-7e271.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816189604190:android:0e318f559b301f387acfcf",
+        "android_client_info": {
+          "package_name": "com.example.eshtary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2qYh3ExpOXhvo-eEoEPIHfs90Kik6Hss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
